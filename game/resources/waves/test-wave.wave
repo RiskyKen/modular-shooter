@@ -1,0 +1,4 @@
+﻿pattern=point
+
+wave=test-wave.wave
+wait-tell-dead

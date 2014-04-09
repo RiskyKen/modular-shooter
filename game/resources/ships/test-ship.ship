@@ -1,0 +1,4 @@
+﻿name=Test Ship
+image=resources/gfx/ships/red ship left.png
+health=10
+guntype=Test Gun|0|40

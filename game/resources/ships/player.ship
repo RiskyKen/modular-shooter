@@ -1,0 +1,4 @@
+﻿name=Player Ship
+image=resources/gfx/ships/cockpit.png
+health=10
+guntype=Test Gun|8|0
